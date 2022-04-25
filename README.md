@@ -1,0 +1,2 @@
+# Genetic-Algorithm-Python
+Suppose, you are the owner of a bank that operates in a strange way. Customers can lend money from your bank (just like a normal bank) and they can also deposit money in your bank. A register is maintained to track the daily transactions. However, being the strange owner of a strange bank, you have a fascination with finding out whether a portion of your daily transactions (in/out) balance out to zero.
